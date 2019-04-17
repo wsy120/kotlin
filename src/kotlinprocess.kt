@@ -3,6 +3,7 @@
  * @date 2019-04-02 23:37
  */
 
+import lanugage.array.arrTest
 import lanugage.char.convertToIntTest
 import lanugage.operator.operator2Test
 
@@ -10,5 +11,5 @@ import lanugage.operator.operator2Test
 
 fun main() {
 
-    convertToIntTest()
+    arrTest()
 }
