@@ -6,10 +6,11 @@
 import lanugage.array.arrTest
 import lanugage.char.convertToIntTest
 import lanugage.operator.operator2Test
+import lanugage.string.stringTest1
 
 //import lanugage.lan.package1
 
 fun main() {
 
-    arrTest()
+    stringTest1()
 }
